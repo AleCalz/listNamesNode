@@ -1,0 +1,20 @@
+{
+  "name": "list-name",
+  "version": "1.0.0",
+  "description": "this is a list of names",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "project",
+    "list",
+    "names"
+  ],
+  "author": "AleCalz",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
